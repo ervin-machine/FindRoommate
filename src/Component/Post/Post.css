@@ -1,0 +1,107 @@
+.post {
+    width: 330px;
+    height: 430px;
+}
+.post-price {
+    position: absolute;
+    margin-top: -45px;
+    color: white;
+    font-size: 21px;
+    margin-left: 15px;
+}
+.post-address {
+    position: absolute;
+    margin-left: 30px;
+}
+.post-desc {
+    display: flex;
+    margin-top: 40px;
+    margin-left: 12px;
+}
+.post-desc-text {
+    display: flex;
+    margin-top: -35px;
+    margin-left: 10px;
+}
+.post-sqft {
+    margin-left: 40px;
+}
+.post-baths {
+    margin-left: 30px;
+}
+.post-shower {
+    margin-left: 60px;
+}
+.post-sqft-image {
+    margin-left: 20px;
+}
+.post-bedrooms-image {
+    margin-left: 65px;
+}
+.post-bedrooms {
+    margin-left: 30px;
+}
+hr {
+    width: 80%;
+    margin-top: -10px;
+}
+.post-seller {
+    display: flex;
+}
+.post-seller-image {
+    position: relative;
+    width: 40px;
+    height: 40px;
+    margin-left: 30px;
+}
+.post-seller-name {
+    margin-left: 10px;
+    margin-top: 0px;
+}
+.post-seller-job {
+    margin-left: 10px;
+    margin-top: -15px;
+    font-size: 10px;
+    color: gray;
+}
+.room-desc {
+    margin-left: 30px;
+}
+.room-desc-text {
+    margin-left: 30px;
+}
+.room-amenities {
+    display: flex;
+    height: 70px;
+    background-color: #e2e0e0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    justify-content: center;
+    margin-left: -10px;
+}
+.post-photos-head {
+    margin-left: 30px;
+}
+.post-photos {
+    display: flex;
+    margin-left: 20px;
+    overflow-x: scroll;
+}
+.post-image {
+    margin-left: 10px;
+}
+.post-seller-about {
+    margin-left: -45px;
+}
+.post-seller-head-text {
+    margin-left: 30px;
+}
+.chat-button {
+    width: 310px;
+    margin-left: -45px;
+    height: 60px;
+    background-color: #274293;
+    color: white;
+    border: none;
+    border-radius: 10px;
+}

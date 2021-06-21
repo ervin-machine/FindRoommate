@@ -1,0 +1,66 @@
+.postcard {
+    width: 330px;
+    height: 430px;
+}
+.postcard-price {
+    position: absolute;
+    margin-top: -45px;
+    color: white;
+    font-size: 21px;
+    margin-left: 15px;
+}
+.postcard-address {
+    position: absolute;
+    margin-left: 30px;
+}
+.postcard-desc {
+    display: flex;
+    margin-top: 40px;
+    margin-left: 12px;
+}
+.postcard-desc-text {
+    display: flex;
+    margin-top: -35px;
+    margin-left: 10px;
+}
+.postcard-sqft {
+    margin-left: 40px;
+}
+.postcard-baths {
+    margin-left: 30px;
+}
+.postcard-shower {
+    margin-left: 60px;
+}
+.postcard-sqft-image {
+    margin-left: 20px;
+}
+.postcard-bedrooms-image {
+    margin-left: 65px;
+}
+.postcard-bedrooms {
+    margin-left: 30px;
+}
+hr {
+    width: 80%;
+    margin-top: -10px;
+}
+.postcard-seller {
+    display: flex;
+}
+.postcard-seller-image {
+    position: relative;
+    width: 40px;
+    height: 40px;
+    margin-left: 30px;
+}
+.postcard-seller-name {
+    margin-left: 10px;
+    margin-top: 0px;
+}
+.postcard-seller-job {
+    margin-left: 10px;
+    margin-top: -15px;
+    font-size: 10px;
+    color: gray;
+}

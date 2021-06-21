@@ -1,0 +1,22 @@
+.userhome {
+    position: absolute;
+    width: 100%;
+    height: 100vh;
+}
+.uh-background {
+    position: absolute;
+    bottom: 0;
+    height: 60px;
+    width: 100%;
+    background-color: white;
+}
+.uh-menu {
+    position: absolute;
+    left: 50%;
+    bottom: 10%;
+}
+.uh-menu-list {
+    display: flex;
+    position: relative;
+    left: -50%;
+}
