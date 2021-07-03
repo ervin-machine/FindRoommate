@@ -32,6 +32,7 @@ function UserHome() {
     return (
         <div className="userhome">
             <Map
+                onClick={PopUpClose}
                 // eslint-disable-next-line
                 style="mapbox://styles/mapbox/streets-v9"
                 containerStyle={{

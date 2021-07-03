@@ -8,7 +8,7 @@ import oval from '../../Assets/Oval.png'
 function PostCard() {
     return (
         <div className="postcard">
-            <img className="postcard-image" src={postcardimage} alt="postcard-image" />
+            <img className="postcard-image" src={postcardimage} alt="postcard" />
             <p className="postcard-price"> $1,200 / mo</p>
             <p className="postcard-address">70 West 37th Street #709</p>
             <div className="postcard-desc">
